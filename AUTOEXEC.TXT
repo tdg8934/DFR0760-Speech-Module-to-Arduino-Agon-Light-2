@@ -1,0 +1,6 @@
+SET KEYBOARD 1
+
+mos_setrtc
+
+LOAD bbcbasic.bin
+RUN . /basicheader2.bas
